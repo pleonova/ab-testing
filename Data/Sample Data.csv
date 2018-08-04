@@ -1,4 +1,4 @@
-user_id,cohort_date,latest_login,version,type,category,visits,clicked,clicks,liked,likes
+user_id,date_joined,date_visit,version,type,category,visits,clicked,clicks,liked,likes
 31098458,2018-04-23,2018-04-23,B,0,E,3,0,0,0,0
 31098467,2018-04-23,2018-05-08,C,1,M,2,0,0,0,0
 31098468,2018-04-23,2018-05-02,A1,1,,2,0,0,0,0
