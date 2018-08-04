@@ -28,13 +28,3 @@ A Jupyter notebook template/tutorial for running and evaluating ABn tests where 
 - The 2 and 2+ Sample Test sections do NOT need to be run sequentially (*2+ Sample Testing* section will work without first having to run the cell blocks in the *2 Sample Testing*).
 
 
------ 
-## Testimonials
-Even though this isn't by any means a paid product, I wanted to share some kind words that my colleagues told me because this notebook helped them save some time and shed light on some tricky concepts. My main goal for this tuturial is to help others do their job better and have a better understanding of some testing fundamentals.
-
-- "I used a bunch of your code from the AB testing notebook for proportions in a HP testing notebook. It worked pretty smoothly!"
-- "Paula - this is a fantastic notebook. It is thorough and comprehensive. You've left no stone unturned."
-- "Isn't it great how fast I can asnwer all these questions?! (love this notebook)"
-- "Starting to see some positive results... Thanks again for all your help getting the analysis notebooks together"
-
-
